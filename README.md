@@ -23,7 +23,7 @@
 
 ### What I learned
 
-This was a challenge from Angela Yu's Web Development Bootcamp 2022 that was very enjoyable. In it I learned how to add Event Listeners. The final result was a drum kit operated by a keyboard or mouse that emmitted realistic drum sounds.
+This was a challenge from Angela Yu's Web Development Bootcamp 2022 that was very enjoyable. In it I learned how to add Event Listeners. The final result was a drum kit operated by a keyboard or click that emmitted realistic drum sounds.
 
 
 ### Continued development
